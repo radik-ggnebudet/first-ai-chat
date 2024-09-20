@@ -1,4 +1,3 @@
-<a href="https://chat.vercel.ai/">
   <img alt="RadikWorks. Easy and period." src="blob:https://imgur.com/8292e929-5f72-45e4-9c84-c7eda88ac28f">
   <h1 align="center">Radik`s own AI Chat-bot</h1>
 </a>
